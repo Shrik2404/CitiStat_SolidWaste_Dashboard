@@ -1,2 +1,3 @@
-# CitiStat_SolidWaste_Dashboard
-PowerBi Dashboard
+Dashboard Overview:
+This interactive Power BI dashboard evaluates the performance of Baltimore’s Bureau of Solid Waste from 2020 to 2024. It visualizes key metrics such as annual and seasonal service request trends, on-time completion rates using a rolling 90-day average, and geographic equity in service delivery across neighborhoods. Additional insights include delayed completion percentages, dominant service request types (e.g., High Grass and Weeds), and request submission methods. The dashboard supports data-driven recommendations for improving timeliness, operational efficiency, and equitable resource allocation.
+
